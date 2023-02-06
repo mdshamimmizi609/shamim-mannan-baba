@@ -1,10 +1,14 @@
 <style>
-    h1{
-        color:violet;
+
+    h4{
+        color:red;
     }
-    
-    
-    
-    </style>
+    h3{
+        background-color: black;
+    }
+    h2{
+        color: violet;
+    }
+</style>
 
 
